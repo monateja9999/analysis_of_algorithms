@@ -1,1 +1,1 @@
-# CSCI 570 Analysis of Algorithms
+# Analysis of Algorithms
