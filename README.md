@@ -1,1 +1,1 @@
-# Analysis of Algorithms
+# Analysis of Algorithms under Victor Adamchik
